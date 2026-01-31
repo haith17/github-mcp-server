@@ -26,3 +26,6 @@ jobs:
         with:
           name: app-debug-apk
           path: build/app/outputs/flutter-apk/app-debug.apk
+cd path/to/zon-vital
+flutter pub get
+flutter run
