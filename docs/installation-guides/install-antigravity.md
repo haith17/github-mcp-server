@@ -144,3 +144,4 @@ For a complete list of available tools and features, see the [main README](../..
 cd path/to/zon-vital
 flutter pub get
 flutter run
+run_app.bat
