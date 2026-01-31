@@ -141,3 +141,6 @@ For a complete list of available tools and features, see the [main README](../..
 - Explore the [Server Configuration Guide](../server-configuration.md) for advanced options
 - Check out [toolsets documentation](../../README.md#available-toolsets) to customize available tools
 - See the [Remote Server Documentation](../remote-server.md) for more details
+cd path/to/zon-vital
+flutter pub get
+flutter run
